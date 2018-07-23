@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Bawanta City",
+    "name": "Carlatan",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/city.PNG",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 16.554621,
-    "lng": 120.342109
+    "lat": 16.634786,
+    "lng": 120.319046
   },
   {
     "id": 148,
@@ -19,12 +19,12 @@
   },
   {
     "id": 201,
-    "name": "Oasis Resort",
+    "name": "Macho Temple",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/2.jpg",
     "price": 150,
     "priceCurrency": "PESO",
-    "lat": 16.590576,
-    "lng": 120.323370
+    "lat": 16.621205,
+    "lng": 120.317499
   },
   {
     "id": 205,
